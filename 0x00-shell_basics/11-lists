@@ -1,2 +1,2 @@
 #!/bin/bash
-./script200.sh
+ls -la . .. /boot
